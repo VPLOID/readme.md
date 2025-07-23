@@ -5,5 +5,4 @@ algumas linguagens que estou aprendendo
 
 ( javascript(node.js) || python)
 
-aqui vou postar uns projetos 
-então se sinta a vontade para explorar meu projetos!
+sinta-se a vontade para ver algo no meu perfil
